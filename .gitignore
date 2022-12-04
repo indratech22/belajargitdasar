@@ -1,0 +1,8 @@
+# Ignore folder log
+log/
+
+# Ignone file extension .backup
+*.backup
+
+# Ignore ignore.txt
+ignore.txt
