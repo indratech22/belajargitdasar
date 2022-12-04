@@ -1,0 +1,2 @@
+ini file3.txt
+seharusnya masih ada baris ke 2
