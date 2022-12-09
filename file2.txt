@@ -3,3 +3,4 @@ menambah baris di file2.txt
 feature 2
 Feature A
 feature rebase
+feature merge squash
